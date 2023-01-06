@@ -4,7 +4,7 @@
 MyArtist, a music player app where fans can keep up to date with their favorite artists.  
 
 ## Installation
-Clone this repository and import into **Android Studio**
+Clone this repository and import into **Android Studio** or **VSCode**
 ```bash
 git clone git@github.com:khmaies5/<reponame>.git
 ```
